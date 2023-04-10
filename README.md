@@ -4,10 +4,12 @@ Hello! I am Sergey, a Python developer. I enjoy working on backend development a
 ## Contact Me
 You can reach out to me through the following channels:
 
-<div align="center"> 
+<div align="center">
+
 [![Yandex][yandex-shield]][yandex-url]
 [![Gmail][gmail-shield]][gmail-url]
 [![Telegram][telegram-shield]][telegram-url]
+
 </div>
 
 
