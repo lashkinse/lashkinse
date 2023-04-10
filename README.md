@@ -1,4 +1,5 @@
-## Hellooo! Nice to see you here 😊
+## Hi! Nice to see you here 😊
+Hello! I am Sergey, a Python developer. I enjoy working on backend development and have a good understanding of system administration.
 
 ## Contact me:
 <div align="center"> 
@@ -8,8 +9,6 @@
 [![Telegram][telegram-shield]][telegram-url]
 
 </div>
-
-
 
 [telegram-shield]: https://img.shields.io/badge/-Telegram-0A66C2.svg?style=for-the-badge&logo=telegram
 [telegram-url]: mailto:sergey.2bite@gmail.com
