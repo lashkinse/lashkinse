@@ -1,6 +1,5 @@
 ## Hi there! 😊
 Nice to see you here! I am Sergey, a Python developer.
-
 I enjoy working on backend development and have a good understanding of system administration.
 
 ## Contact Me
