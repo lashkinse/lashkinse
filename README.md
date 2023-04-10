@@ -1,9 +1,12 @@
-# Hi there 👋
+<div align="center"> 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lashkinse&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lashkinse&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+[![Gmail][gmail-shield]][gmail-url]
+[![Telegram][telegram-shield]][telegram-url]
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lashkinse&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
-<!--
-**lashkinse/lashkinse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[gmail-shield]: https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white
+[gmail-url]: mailto:sergey.2bite@gmail.com
+
+[telegram-shield]: https://img.shields.io/badge/-Telegram-0A66C2.svg?style=for-the-badge&logo=telegram
+[telegram-url]: mailto:sergey.2bite@gmail.com
