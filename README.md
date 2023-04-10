@@ -1,5 +1,5 @@
 ## Hi! Nice to see you here 😊
-Hello! I am Sergey, a Python developer. I enjoy working on backend development and have a good understanding of system administration.
+# Hello! I am Sergey, a Python developer. I enjoy working on backend development and have a good understanding of system administration.
 
 ## Contact me:
 <div align="center"> 
